@@ -1,0 +1,22 @@
+[1.429s] Invoking command in '/home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/lbr_demos/lbr_demos_advanced_py': AMENT_PREFIX_PATH=/home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_fri_ros2:/home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_fri_ros2:/home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_fri_ros2/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/build/lbr_demos_advanced_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_demos_advanced_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/lbr_demos_advanced_py build --build-base /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/build/lbr_demos_advanced_py/build install --record /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/build/lbr_demos_advanced_py/install.log --single-version-externally-managed install_data
+[1.987s] running egg_info
+[1.988s] writing ../../build/lbr_demos_advanced_py/lbr_demos_advanced_py.egg-info/PKG-INFO
+[1.989s] writing dependency_links to ../../build/lbr_demos_advanced_py/lbr_demos_advanced_py.egg-info/dependency_links.txt
+[1.989s] writing entry points to ../../build/lbr_demos_advanced_py/lbr_demos_advanced_py.egg-info/entry_points.txt
+[1.989s] writing requirements to ../../build/lbr_demos_advanced_py/lbr_demos_advanced_py.egg-info/requires.txt
+[1.989s] writing top-level names to ../../build/lbr_demos_advanced_py/lbr_demos_advanced_py.egg-info/top_level.txt
+[1.992s] reading manifest file '../../build/lbr_demos_advanced_py/lbr_demos_advanced_py.egg-info/SOURCES.txt'
+[1.994s] writing manifest file '../../build/lbr_demos_advanced_py/lbr_demos_advanced_py.egg-info/SOURCES.txt'
+[1.994s] running build
+[1.994s] running build_py
+[1.995s] running install
+[1.996s] running install_lib
+[1.998s] running install_data
+[1.998s] running install_egg_info
+[2.001s] removing '/home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_demos_advanced_py/lib/python3.10/site-packages/lbr_demos_advanced_py-2.2.1-py3.10.egg-info' (and everything under it)
+[2.002s] Copying ../../build/lbr_demos_advanced_py/lbr_demos_advanced_py.egg-info to /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_demos_advanced_py/lib/python3.10/site-packages/lbr_demos_advanced_py-2.2.1-py3.10.egg-info
+[2.004s] running install_scripts
+[2.040s] Installing admittance_control script to /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_demos_advanced_py/lib/lbr_demos_advanced_py
+[2.041s] Installing admittance_rcm_control script to /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_demos_advanced_py/lib/lbr_demos_advanced_py
+[2.041s] writing list of installed files to '/home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/build/lbr_demos_advanced_py/install.log'
+[2.294s] Invoked command in '/home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/lbr_demos/lbr_demos_advanced_py' returned '0': AMENT_PREFIX_PATH=/home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_fri_ros2:/home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_fri_ros2:/home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_fri_ros2/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/build/lbr_demos_advanced_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_demos_advanced_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/lbr_demos_advanced_py build --build-base /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/build/lbr_demos_advanced_py/build install --record /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/build/lbr_demos_advanced_py/install.log --single-version-externally-managed install_data

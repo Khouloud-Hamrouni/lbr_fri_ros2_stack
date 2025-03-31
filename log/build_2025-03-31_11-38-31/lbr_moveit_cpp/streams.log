@@ -1,0 +1,25 @@
+[0.635s] Invoking command in '/home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/build/lbr_moveit_cpp': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/khamrouni/ws_moveit/install/moveit_configs_utils:/home/khamrouni/ws_moveit/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --build /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/build/lbr_moveit_cpp -- -j8 -l8
+[0.722s] [35m[1mConsolidate compiler generated dependencies of target hello_moveit[0m
+[0.775s] [100%] Built target hello_moveit
+[0.845s] Invoked command in '/home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/build/lbr_moveit_cpp' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/khamrouni/ws_moveit/install/moveit_configs_utils:/home/khamrouni/ws_moveit/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --build /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/build/lbr_moveit_cpp -- -j8 -l8
+[0.850s] Invoking command in '/home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/build/lbr_moveit_cpp': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/khamrouni/ws_moveit/install/moveit_configs_utils:/home/khamrouni/ws_moveit/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --install /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/build/lbr_moveit_cpp
+[0.875s] -- Install configuration: "Release"
+[0.875s] -- Up-to-date: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_moveit_cpp/share/lbr_moveit_cpp/launch
+[0.876s] -- Up-to-date: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_moveit_cpp/share/lbr_moveit_cpp/launch/hello_moveit.launch.py
+[0.878s] -- Up-to-date: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_moveit_cpp/lib/lbr_moveit_cpp/hello_moveit
+[0.879s] -- Up-to-date: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_moveit_cpp/share/ament_index/resource_index/package_run_dependencies/lbr_moveit_cpp
+[0.879s] -- Up-to-date: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_moveit_cpp/share/ament_index/resource_index/parent_prefix_path/lbr_moveit_cpp
+[0.879s] -- Up-to-date: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_moveit_cpp/share/lbr_moveit_cpp/environment/ament_prefix_path.sh
+[0.879s] -- Up-to-date: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_moveit_cpp/share/lbr_moveit_cpp/environment/ament_prefix_path.dsv
+[0.879s] -- Up-to-date: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_moveit_cpp/share/lbr_moveit_cpp/environment/path.sh
+[0.879s] -- Up-to-date: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_moveit_cpp/share/lbr_moveit_cpp/environment/path.dsv
+[0.880s] -- Up-to-date: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_moveit_cpp/share/lbr_moveit_cpp/local_setup.bash
+[0.880s] -- Up-to-date: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_moveit_cpp/share/lbr_moveit_cpp/local_setup.sh
+[0.880s] -- Up-to-date: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_moveit_cpp/share/lbr_moveit_cpp/local_setup.zsh
+[0.880s] -- Up-to-date: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_moveit_cpp/share/lbr_moveit_cpp/local_setup.dsv
+[0.880s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_moveit_cpp/share/lbr_moveit_cpp/package.dsv
+[0.881s] -- Up-to-date: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_moveit_cpp/share/ament_index/resource_index/packages/lbr_moveit_cpp
+[0.881s] -- Up-to-date: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_moveit_cpp/share/lbr_moveit_cpp/cmake/lbr_moveit_cppConfig.cmake
+[0.881s] -- Up-to-date: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_moveit_cpp/share/lbr_moveit_cpp/cmake/lbr_moveit_cppConfig-version.cmake
+[0.881s] -- Up-to-date: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_moveit_cpp/share/lbr_moveit_cpp/package.xml
+[0.912s] Invoked command in '/home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/build/lbr_moveit_cpp' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/khamrouni/ws_moveit/install/moveit_configs_utils:/home/khamrouni/ws_moveit/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --install /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/build/lbr_moveit_cpp
