@@ -1,0 +1,49 @@
+[1.744s] Invoking command in '/home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/lbr_demos/lbr_demos_py': AMENT_PREFIX_PATH=/home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_bringup:/home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_ros2_control:/home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_fri_ros2:/home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_bringup:/home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_ros2_control:/home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_fri_ros2:/home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_ros2_control/lib:/home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_fri_ros2/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/build/lbr_demos_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_demos_py/lib/python3.10/site-packages:/home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_bringup/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/lbr_demos_py build --build-base /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/build/lbr_demos_py/build install --record /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/build/lbr_demos_py/install.log --single-version-externally-managed install_data
+[2.436s] running egg_info
+[2.437s] creating ../../build/lbr_demos_py/lbr_demos_py.egg-info
+[2.438s] writing ../../build/lbr_demos_py/lbr_demos_py.egg-info/PKG-INFO
+[2.438s] writing dependency_links to ../../build/lbr_demos_py/lbr_demos_py.egg-info/dependency_links.txt
+[2.439s] writing entry points to ../../build/lbr_demos_py/lbr_demos_py.egg-info/entry_points.txt
+[2.439s] writing requirements to ../../build/lbr_demos_py/lbr_demos_py.egg-info/requires.txt
+[2.439s] writing top-level names to ../../build/lbr_demos_py/lbr_demos_py.egg-info/top_level.txt
+[2.440s] writing manifest file '../../build/lbr_demos_py/lbr_demos_py.egg-info/SOURCES.txt'
+[2.444s] reading manifest file '../../build/lbr_demos_py/lbr_demos_py.egg-info/SOURCES.txt'
+[2.445s] writing manifest file '../../build/lbr_demos_py/lbr_demos_py.egg-info/SOURCES.txt'
+[2.445s] running build
+[2.446s] running build_py
+[2.446s] creating /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/build/lbr_demos_py/build
+[2.446s] creating /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/build/lbr_demos_py/build/lib
+[2.446s] creating /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/build/lbr_demos_py/build/lib/lbr_demos_py
+[2.447s] copying lbr_demos_py/wrench_sine_overlay.py -> /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/build/lbr_demos_py/build/lib/lbr_demos_py
+[2.454s] copying lbr_demos_py/torque_sine_overlay.py -> /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/build/lbr_demos_py/build/lib/lbr_demos_py
+[2.455s] copying lbr_demos_py/joint_sine_overlay.py -> /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/build/lbr_demos_py/build/lib/lbr_demos_py
+[2.455s] copying lbr_demos_py/joint_trajectory_client.py -> /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/build/lbr_demos_py/build/lib/lbr_demos_py
+[2.456s] copying lbr_demos_py/__init__.py -> /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/build/lbr_demos_py/build/lib/lbr_demos_py
+[2.456s] running install
+[2.456s] running install_lib
+[2.457s] creating /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_demos_py/lib/python3.10/site-packages/lbr_demos_py
+[2.458s] copying /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/build/lbr_demos_py/build/lib/lbr_demos_py/wrench_sine_overlay.py -> /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_demos_py/lib/python3.10/site-packages/lbr_demos_py
+[2.458s] copying /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/build/lbr_demos_py/build/lib/lbr_demos_py/torque_sine_overlay.py -> /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_demos_py/lib/python3.10/site-packages/lbr_demos_py
+[2.458s] copying /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/build/lbr_demos_py/build/lib/lbr_demos_py/joint_sine_overlay.py -> /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_demos_py/lib/python3.10/site-packages/lbr_demos_py
+[2.459s] copying /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/build/lbr_demos_py/build/lib/lbr_demos_py/joint_trajectory_client.py -> /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_demos_py/lib/python3.10/site-packages/lbr_demos_py
+[2.459s] copying /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/build/lbr_demos_py/build/lib/lbr_demos_py/__init__.py -> /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_demos_py/lib/python3.10/site-packages/lbr_demos_py
+[2.460s] byte-compiling /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_demos_py/lib/python3.10/site-packages/lbr_demos_py/wrench_sine_overlay.py to wrench_sine_overlay.cpython-310.pyc
+[2.462s] byte-compiling /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_demos_py/lib/python3.10/site-packages/lbr_demos_py/torque_sine_overlay.py to torque_sine_overlay.cpython-310.pyc
+[2.463s] byte-compiling /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_demos_py/lib/python3.10/site-packages/lbr_demos_py/joint_sine_overlay.py to joint_sine_overlay.cpython-310.pyc
+[2.464s] byte-compiling /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_demos_py/lib/python3.10/site-packages/lbr_demos_py/joint_trajectory_client.py to joint_trajectory_client.cpython-310.pyc
+[2.466s] byte-compiling /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_demos_py/lib/python3.10/site-packages/lbr_demos_py/__init__.py to __init__.cpython-310.pyc
+[2.466s] running install_data
+[2.466s] creating /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_demos_py/share/ament_index
+[2.467s] creating /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_demos_py/share/ament_index/resource_index
+[2.467s] creating /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_demos_py/share/ament_index/resource_index/packages
+[2.468s] copying resource/lbr_demos_py -> /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_demos_py/share/ament_index/resource_index/packages
+[2.468s] copying package.xml -> /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_demos_py/share/lbr_demos_py
+[2.468s] running install_egg_info
+[2.472s] Copying ../../build/lbr_demos_py/lbr_demos_py.egg-info to /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_demos_py/lib/python3.10/site-packages/lbr_demos_py-2.2.1-py3.10.egg-info
+[2.474s] running install_scripts
+[2.536s] Installing joint_sine_overlay script to /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_demos_py/lib/lbr_demos_py
+[2.536s] Installing joint_trajectory_client script to /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_demos_py/lib/lbr_demos_py
+[2.537s] Installing torque_sine_overlay script to /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_demos_py/lib/lbr_demos_py
+[2.537s] Installing wrench_sine_overlay script to /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_demos_py/lib/lbr_demos_py
+[2.537s] writing list of installed files to '/home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/build/lbr_demos_py/install.log'
+[2.596s] Invoked command in '/home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/lbr_demos/lbr_demos_py' returned '0': AMENT_PREFIX_PATH=/home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_bringup:/home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_ros2_control:/home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_fri_ros2:/home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_bringup:/home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_ros2_control:/home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_fri_ros2:/home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_ros2_control/lib:/home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_fri_ros2/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/build/lbr_demos_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_demos_py/lib/python3.10/site-packages:/home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_bringup/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/lbr_demos_py build --build-base /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/build/lbr_demos_py/build install --record /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/build/lbr_demos_py/install.log --single-version-externally-managed install_data

@@ -1,0 +1,53 @@
+[1.623s] Invoking command in '/home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/lbr_demos/lbr_demos_advanced_py': AMENT_PREFIX_PATH=/home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_fri_ros2:/home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_fri_ros2:/home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_fri_ros2/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/build/lbr_demos_advanced_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_demos_advanced_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/lbr_demos_advanced_py build --build-base /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/build/lbr_demos_advanced_py/build install --record /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/build/lbr_demos_advanced_py/install.log --single-version-externally-managed install_data
+[2.257s] running egg_info
+[2.258s] creating ../../build/lbr_demos_advanced_py/lbr_demos_advanced_py.egg-info
+[2.259s] writing ../../build/lbr_demos_advanced_py/lbr_demos_advanced_py.egg-info/PKG-INFO
+[2.259s] writing dependency_links to ../../build/lbr_demos_advanced_py/lbr_demos_advanced_py.egg-info/dependency_links.txt
+[2.259s] writing entry points to ../../build/lbr_demos_advanced_py/lbr_demos_advanced_py.egg-info/entry_points.txt
+[2.260s] writing requirements to ../../build/lbr_demos_advanced_py/lbr_demos_advanced_py.egg-info/requires.txt
+[2.260s] writing top-level names to ../../build/lbr_demos_advanced_py/lbr_demos_advanced_py.egg-info/top_level.txt
+[2.260s] writing manifest file '../../build/lbr_demos_advanced_py/lbr_demos_advanced_py.egg-info/SOURCES.txt'
+[2.264s] reading manifest file '../../build/lbr_demos_advanced_py/lbr_demos_advanced_py.egg-info/SOURCES.txt'
+[2.266s] writing manifest file '../../build/lbr_demos_advanced_py/lbr_demos_advanced_py.egg-info/SOURCES.txt'
+[2.266s] running build
+[2.266s] running build_py
+[2.266s] creating /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/build/lbr_demos_advanced_py/build
+[2.266s] creating /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/build/lbr_demos_advanced_py/build/lib
+[2.267s] creating /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/build/lbr_demos_advanced_py/build/lib/lbr_demos_advanced_py
+[2.267s] copying lbr_demos_advanced_py/admittance_controller.py -> /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/build/lbr_demos_advanced_py/build/lib/lbr_demos_advanced_py
+[2.274s] copying lbr_demos_advanced_py/admittance_rcm_control_node.py -> /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/build/lbr_demos_advanced_py/build/lib/lbr_demos_advanced_py
+[2.275s] copying lbr_demos_advanced_py/lbr_base_position_command_node.py -> /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/build/lbr_demos_advanced_py/build/lib/lbr_demos_advanced_py
+[2.275s] copying lbr_demos_advanced_py/admittance_control_node.py -> /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/build/lbr_demos_advanced_py/build/lib/lbr_demos_advanced_py
+[2.276s] copying lbr_demos_advanced_py/__init__.py -> /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/build/lbr_demos_advanced_py/build/lib/lbr_demos_advanced_py
+[2.276s] copying lbr_demos_advanced_py/admittance_rcm_controller.py -> /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/build/lbr_demos_advanced_py/build/lib/lbr_demos_advanced_py
+[2.276s] running install
+[2.277s] running install_lib
+[2.279s] creating /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_demos_advanced_py/lib/python3.10/site-packages/lbr_demos_advanced_py
+[2.279s] copying /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/build/lbr_demos_advanced_py/build/lib/lbr_demos_advanced_py/admittance_controller.py -> /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_demos_advanced_py/lib/python3.10/site-packages/lbr_demos_advanced_py
+[2.279s] copying /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/build/lbr_demos_advanced_py/build/lib/lbr_demos_advanced_py/admittance_rcm_control_node.py -> /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_demos_advanced_py/lib/python3.10/site-packages/lbr_demos_advanced_py
+[2.280s] copying /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/build/lbr_demos_advanced_py/build/lib/lbr_demos_advanced_py/lbr_base_position_command_node.py -> /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_demos_advanced_py/lib/python3.10/site-packages/lbr_demos_advanced_py
+[2.280s] copying /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/build/lbr_demos_advanced_py/build/lib/lbr_demos_advanced_py/admittance_control_node.py -> /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_demos_advanced_py/lib/python3.10/site-packages/lbr_demos_advanced_py
+[2.280s] copying /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/build/lbr_demos_advanced_py/build/lib/lbr_demos_advanced_py/__init__.py -> /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_demos_advanced_py/lib/python3.10/site-packages/lbr_demos_advanced_py
+[2.280s] copying /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/build/lbr_demos_advanced_py/build/lib/lbr_demos_advanced_py/admittance_rcm_controller.py -> /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_demos_advanced_py/lib/python3.10/site-packages/lbr_demos_advanced_py
+[2.281s] byte-compiling /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_demos_advanced_py/lib/python3.10/site-packages/lbr_demos_advanced_py/admittance_controller.py to admittance_controller.cpython-310.pyc
+[2.283s] byte-compiling /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_demos_advanced_py/lib/python3.10/site-packages/lbr_demos_advanced_py/admittance_rcm_control_node.py to admittance_rcm_control_node.cpython-310.pyc
+[2.285s] byte-compiling /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_demos_advanced_py/lib/python3.10/site-packages/lbr_demos_advanced_py/lbr_base_position_command_node.py to lbr_base_position_command_node.cpython-310.pyc
+[2.286s] byte-compiling /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_demos_advanced_py/lib/python3.10/site-packages/lbr_demos_advanced_py/admittance_control_node.py to admittance_control_node.cpython-310.pyc
+[2.287s] byte-compiling /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_demos_advanced_py/lib/python3.10/site-packages/lbr_demos_advanced_py/__init__.py to __init__.cpython-310.pyc
+[2.288s] byte-compiling /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_demos_advanced_py/lib/python3.10/site-packages/lbr_demos_advanced_py/admittance_rcm_controller.py to admittance_rcm_controller.cpython-310.pyc
+[2.289s] running install_data
+[2.289s] creating /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_demos_advanced_py/share/ament_index
+[2.290s] creating /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_demos_advanced_py/share/ament_index/resource_index
+[2.290s] creating /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_demos_advanced_py/share/ament_index/resource_index/packages
+[2.290s] copying resource/lbr_demos_advanced_py -> /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_demos_advanced_py/share/ament_index/resource_index/packages
+[2.290s] copying package.xml -> /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_demos_advanced_py/share/lbr_demos_advanced_py
+[2.290s] creating /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_demos_advanced_py/share/lbr_demos_advanced_py/config
+[2.290s] copying config/admittance_control.yaml -> /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_demos_advanced_py/share/lbr_demos_advanced_py/config
+[2.291s] copying config/admittance_rcm_control.yaml -> /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_demos_advanced_py/share/lbr_demos_advanced_py/config
+[2.291s] running install_egg_info
+[2.295s] Copying ../../build/lbr_demos_advanced_py/lbr_demos_advanced_py.egg-info to /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_demos_advanced_py/lib/python3.10/site-packages/lbr_demos_advanced_py-2.2.1-py3.10.egg-info
+[2.297s] running install_scripts
+[2.339s] Installing admittance_control script to /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_demos_advanced_py/lib/lbr_demos_advanced_py
+[2.339s] Installing admittance_rcm_control script to /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_demos_advanced_py/lib/lbr_demos_advanced_py
+[2.340s] writing list of installed files to '/home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/build/lbr_demos_advanced_py/install.log'
+[2.382s] Invoked command in '/home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/lbr_demos/lbr_demos_advanced_py' returned '0': AMENT_PREFIX_PATH=/home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_fri_ros2:/home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_fri_ros2:/home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_fri_ros2/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/build/lbr_demos_advanced_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_demos_advanced_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/lbr_demos_advanced_py build --build-base /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/build/lbr_demos_advanced_py/build install --record /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/build/lbr_demos_advanced_py/install.log --single-version-externally-managed install_data

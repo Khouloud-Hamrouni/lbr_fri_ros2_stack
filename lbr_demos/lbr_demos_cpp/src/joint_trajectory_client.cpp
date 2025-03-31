@@ -60,10 +60,25 @@ public:
     }
     RCLCPP_INFO(this->get_logger(), "Goal was accepted by server.");
 
-    // wait for result
+    // wait for result with SIGINT handling
     auto result_future = joint_trajectory_action_client_->async_get_result(goal_handle);
-    rclcpp::spin_until_future_complete(this->get_node_base_interface(), result_future,
-                                       std::chrono::seconds(sec_from_start + goal_sec_tolerance));
+    bool ready = false;
+    while(!ready){
+      if(!rclcpp::ok()){ //handle ctrl+c
+        RCLCPP_ERROR(this->get_logger(), "Interrupted while waiting for result.");
+        return;
+      }
+      auto future_status = rclcpp::spin_until_future_complete(this->get_node_base_interface(), result_future,std::chrono::seconds(sec_from_start + goal_sec_tolerance));
+      if (future_status == rclcpp::FutureReturnCode::SUCCESS) {
+        ready = true;
+      } else if (future_status == rclcpp::FutureReturnCode::TIMEOUT) {
+        // Keep waiting
+        continue;
+      } else {
+        RCLCPP_ERROR(this->get_logger(), "Error while waiting for result.");
+        return;
+      }
+    }
     if (result_future.get().result->error_code !=
         control_msgs::action::FollowJointTrajectory::Result::SUCCESSFUL) {
       RCLCPP_ERROR(this->get_logger(), "Failed to execute joint trajectory.");
