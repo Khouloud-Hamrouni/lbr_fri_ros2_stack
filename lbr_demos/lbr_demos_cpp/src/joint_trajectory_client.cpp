@@ -62,8 +62,7 @@ public:
 
     // wait for result
     auto result_future = joint_trajectory_action_client_->async_get_result(goal_handle);
-    rclcpp::spin_until_future_complete(this->get_node_base_interface(), result_future,
-                                       std::chrono::seconds(sec_from_start + goal_sec_tolerance));
+    rclcpp::spin_until_future_complete(this->get_node_base_interface(), result_future);
     if (result_future.get().result->error_code !=
         control_msgs::action::FollowJointTrajectory::Result::SUCCESSFUL) {
       RCLCPP_ERROR(this->get_logger(), "Failed to execute joint trajectory.");

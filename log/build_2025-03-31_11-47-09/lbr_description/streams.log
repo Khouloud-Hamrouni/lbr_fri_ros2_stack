@@ -1,0 +1,141 @@
+[0.059s] Invoking command in '/home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/build/lbr_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/khamrouni/ws_moveit/install/moveit_configs_utils:/home/khamrouni/ws_moveit/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/lbr_description -DCMAKE_INSTALL_PREFIX=/home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description
+[0.652s] -- The C compiler identification is GNU 11.4.0
+[0.653s] -- The CXX compiler identification is GNU 11.4.0
+[0.653s] -- Detecting C compiler ABI info
+[0.654s] -- Detecting C compiler ABI info - done
+[0.654s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.654s] -- Detecting C compile features
+[0.654s] -- Detecting C compile features - done
+[0.654s] -- Detecting CXX compiler ABI info
+[0.654s] -- Detecting CXX compiler ABI info - done
+[0.655s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.656s] -- Detecting CXX compile features
+[0.656s] -- Detecting CXX compile features - done
+[0.656s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.987s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[1.312s] -- Found ament_cmake_pytest: 1.3.11 (/opt/ros/humble/share/ament_cmake_pytest/cmake)
+[2.093s] -- Configuring done
+[2.100s] -- Generating done
+[2.105s] -- Build files have been written to: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/build/lbr_description
+[2.114s] Invoked command in '/home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/build/lbr_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/khamrouni/ws_moveit/install/moveit_configs_utils:/home/khamrouni/ws_moveit/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/lbr_description -DCMAKE_INSTALL_PREFIX=/home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description
+[2.120s] Invoking command in '/home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/build/lbr_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/khamrouni/ws_moveit/install/moveit_configs_utils:/home/khamrouni/ws_moveit/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --build /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/build/lbr_description -- -j8 -l8
+[2.200s] Invoked command in '/home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/build/lbr_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/khamrouni/ws_moveit/install/moveit_configs_utils:/home/khamrouni/ws_moveit/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --build /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/build/lbr_description -- -j8 -l8
+[2.222s] Invoking command in '/home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/build/lbr_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/khamrouni/ws_moveit/install/moveit_configs_utils:/home/khamrouni/ws_moveit/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --install /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/build/lbr_description
+[2.242s] -- Install configuration: ""
+[2.242s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/gazebo
+[2.242s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/gazebo/lbr_gazebo.xacro
+[2.243s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/meshes
+[2.243s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/meshes/iiwa7
+[2.243s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/meshes/iiwa7/visual
+[2.243s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/meshes/iiwa7/visual/link_6.dae
+[2.245s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/meshes/iiwa7/visual/link_3.dae
+[2.246s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/meshes/iiwa7/visual/link_5.dae
+[2.248s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/meshes/iiwa7/visual/link_2.dae
+[2.251s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/meshes/iiwa7/visual/link_1.dae
+[2.252s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/meshes/iiwa7/visual/link_4.dae
+[2.254s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/meshes/iiwa7/visual/link_0.dae
+[2.256s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/meshes/iiwa7/visual/link_7.dae
+[2.256s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/meshes/iiwa7/collision
+[2.257s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/meshes/iiwa7/collision/link_2.stl
+[2.257s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/meshes/iiwa7/collision/link_5.stl
+[2.257s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/meshes/iiwa7/collision/link_4.stl
+[2.258s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/meshes/iiwa7/collision/link_3.stl
+[2.258s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/meshes/iiwa7/collision/link_0.stl
+[2.258s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/meshes/iiwa7/collision/link_1.stl
+[2.258s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/meshes/iiwa7/collision/link_7.stl
+[2.258s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/meshes/iiwa7/collision/link_6.stl
+[2.259s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/meshes/med14
+[2.259s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/meshes/med14/visual
+[2.259s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/meshes/med14/visual/link_6.dae
+[2.260s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/meshes/med14/visual/link_3.dae
+[2.261s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/meshes/med14/visual/link_5.dae
+[2.263s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/meshes/med14/visual/link_2.dae
+[2.265s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/meshes/med14/visual/link_1.dae
+[2.266s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/meshes/med14/visual/link_4.dae
+[2.268s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/meshes/med14/visual/link_0.dae
+[2.269s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/meshes/med14/visual/link_7.dae
+[2.269s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/meshes/med14/collision
+[2.270s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/meshes/med14/collision/link_2.stl
+[2.270s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/meshes/med14/collision/link_5.stl
+[2.270s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/meshes/med14/collision/link_4.stl
+[2.270s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/meshes/med14/collision/link_3.stl
+[2.270s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/meshes/med14/collision/link_0.stl
+[2.270s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/meshes/med14/collision/link_1.stl
+[2.270s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/meshes/med14/collision/link_7.stl
+[2.271s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/meshes/med14/collision/link_6.stl
+[2.271s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/meshes/med7
+[2.271s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/meshes/med7/visual
+[2.271s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/meshes/med7/visual/link_6.dae
+[2.273s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/meshes/med7/visual/link_3.dae
+[2.274s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/meshes/med7/visual/link_5.dae
+[2.275s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/meshes/med7/visual/link_2.dae
+[2.278s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/meshes/med7/visual/link_1.dae
+[2.279s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/meshes/med7/visual/link_4.dae
+[2.282s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/meshes/med7/visual/link_0.dae
+[2.283s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/meshes/med7/visual/link_7.dae
+[2.283s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/meshes/med7/collision
+[2.284s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/meshes/med7/collision/link_2.stl
+[2.284s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/meshes/med7/collision/link_5.stl
+[2.284s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/meshes/med7/collision/link_4.stl
+[2.284s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/meshes/med7/collision/link_3.stl
+[2.284s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/meshes/med7/collision/link_0.stl
+[2.285s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/meshes/med7/collision/link_1.stl
+[2.285s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/meshes/med7/collision/link_7.stl
+[2.285s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/meshes/med7/collision/link_6.stl
+[2.285s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/meshes/iiwa14
+[2.285s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/meshes/iiwa14/visual
+[2.285s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/meshes/iiwa14/visual/link_6.dae
+[2.287s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/meshes/iiwa14/visual/link_3.dae
+[2.288s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/meshes/iiwa14/visual/link_5.dae
+[2.289s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/meshes/iiwa14/visual/link_2.dae
+[2.290s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/meshes/iiwa14/visual/link_1.dae
+[2.291s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/meshes/iiwa14/visual/link_4.dae
+[2.294s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/meshes/iiwa14/visual/link_0.dae
+[2.295s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/meshes/iiwa14/visual/link_7.dae
+[2.296s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/meshes/iiwa14/collision
+[2.297s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/meshes/iiwa14/collision/link_2.stl
+[2.297s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/meshes/iiwa14/collision/link_5.stl
+[2.297s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/meshes/iiwa14/collision/link_4.stl
+[2.298s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/meshes/iiwa14/collision/link_3.stl
+[2.298s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/meshes/iiwa14/collision/link_0.stl
+[2.298s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/meshes/iiwa14/collision/link_1.stl
+[2.298s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/meshes/iiwa14/collision/link_7.stl
+[2.298s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/meshes/iiwa14/collision/link_6.stl
+[2.299s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/ros2_control
+[2.299s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/ros2_control/lbr_system_config.yaml
+[2.299s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/ros2_control/lbr_controllers.yaml
+[2.299s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/ros2_control/lbr_system_interface.xacro
+[2.299s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/urdf
+[2.299s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/urdf/iiwa7
+[2.300s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/urdf/iiwa7/iiwa7.xacro
+[2.300s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/urdf/iiwa7/iiwa7_description.xacro
+[2.300s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/urdf/iiwa7/joint_limits.yaml
+[2.300s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/urdf/med14
+[2.300s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/urdf/med14/med14_description.xacro
+[2.300s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/urdf/med14/med14.xacro
+[2.300s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/urdf/med14/joint_limits.yaml
+[2.301s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/urdf/med7
+[2.301s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/urdf/med7/med7.xacro
+[2.301s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/urdf/med7/med7_description.xacro
+[2.301s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/urdf/med7/joint_limits.yaml
+[2.301s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/urdf/iiwa14
+[2.301s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/urdf/iiwa14/iiwa14.xacro
+[2.302s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/urdf/iiwa14/iiwa14_description.xacro
+[2.302s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/urdf/iiwa14/joint_limits.yaml
+[2.302s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/environment/lbr_description.dsv
+[2.302s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/ament_index/resource_index/package_run_dependencies/lbr_description
+[2.302s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/ament_index/resource_index/parent_prefix_path/lbr_description
+[2.303s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/environment/ament_prefix_path.sh
+[2.303s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/environment/ament_prefix_path.dsv
+[2.303s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/environment/path.sh
+[2.303s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/environment/path.dsv
+[2.303s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/local_setup.bash
+[2.304s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/local_setup.sh
+[2.304s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/local_setup.zsh
+[2.304s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/local_setup.dsv
+[2.304s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/package.dsv
+[2.304s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/ament_index/resource_index/packages/lbr_description
+[2.304s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/cmake/lbr_descriptionConfig.cmake
+[2.305s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/cmake/lbr_descriptionConfig-version.cmake
+[2.305s] -- Installing: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_description/share/lbr_description/package.xml
+[2.307s] Invoked command in '/home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/build/lbr_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/khamrouni/ws_moveit/install/moveit_configs_utils:/home/khamrouni/ws_moveit/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --install /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/build/lbr_description

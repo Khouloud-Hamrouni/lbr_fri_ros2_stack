@@ -1,0 +1,42 @@
+[0.623s] Invoking command in '/home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/build/lbr_moveit_cpp': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/khamrouni/ws_moveit/install/moveit_configs_utils:/home/khamrouni/ws_moveit/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/lbr_demos/lbr_moveit_cpp -DCMAKE_INSTALL_PREFIX=/home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/install/lbr_moveit_cpp
+[0.731s] -- The C compiler identification is GNU 11.4.0
+[0.843s] -- The CXX compiler identification is GNU 11.4.0
+[0.856s] -- Detecting C compiler ABI info
+[0.991s] -- Detecting C compiler ABI info - done
+[1.011s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.013s] -- Detecting C compile features
+[1.013s] -- Detecting C compile features - done
+[1.020s] -- Detecting CXX compiler ABI info
+[1.190s] -- Detecting CXX compiler ABI info - done
+[1.206s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.206s] -- Detecting CXX compile features
+[1.207s] -- Detecting CXX compile features - done
+[1.219s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.555s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[1.860s] -- Found geometry_msgs: 4.2.4 (/opt/ros/humble/share/geometry_msgs/cmake)
+[2.017s] -- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[2.044s] -- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[2.081s] -- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[2.124s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[2.186s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[2.293s] -- Found moveit_ros_planning_interface: 2.5.8 (/home/khamrouni/ws_moveit/install/moveit_ros_planning_interface/share/moveit_ros_planning_interface/cmake)
+[2.937s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.74.0/BoostConfig.cmake (found version "1.74.0") found components: date_time filesystem program_options system thread 
+[3.689s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.74.0/BoostConfig.cmake (found version "1.74.0") found components: chrono date_time filesystem iostreams program_options regex serialization system thread 
+[3.941s] -- Found parameter_traits: 0.4.0 (/opt/ros/humble/share/parameter_traits/cmake)
+[4.210s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[4.241s] -- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[4.565s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[4.628s] -- Found FastRTPS: /opt/ros/humble/include  
+[4.741s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[4.782s] -- Found Threads: TRUE  
+[4.917s] -- Found Eigen3: TRUE (found version "3.4.0") 
+[4.930s] -- Found rclcpp_lifecycle: 16.0.11 (/opt/ros/humble/share/rclcpp_lifecycle/cmake)
+[5.001s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.74.0/BoostConfig.cmake (found version "1.74.0") found components: filesystem 
+[5.242s] -- library: /usr/lib/x86_64-linux-gnu/libcurl.so
+[5.339s] -- Ensuring Eigen3 include directory is part of orocos-kdl CMake target
+[5.769s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.74.0/BoostConfig.cmake (found version "1.74.0") found components: system filesystem date_time program_options thread chrono 
+[5.836s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.74.0/BoostConfig.cmake (found version "1.74.0") found components: thread system filesystem regex date_time program_options 
+[5.890s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.74.0/BoostConfig.cmake (found version "1.74.0") found components: system filesystem date_time program_options thread 
+[6.086s] -- Configuring done
+[6.136s] -- Generating done
+[6.149s] -- Build files have been written to: /home/khamrouni/lbr-stack/src/lbr_fri_ros2_stack/build/lbr_moveit_cpp
